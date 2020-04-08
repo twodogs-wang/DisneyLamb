@@ -61,4 +61,5 @@ int main() {
     //question1();
     char tmp[] = "122";
     allrange(tmp);
+    //可以生成字符串的全排列
 }
